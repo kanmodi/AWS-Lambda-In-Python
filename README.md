@@ -2,10 +2,12 @@
 
 ## Information
 
+```
 Login to the AWS Console.
+```
 
 ```
-Create a new autor from scratch function and an IAM Role.
+Create a new author from scratch function and an IAM Role.
 ```
 
 ```
