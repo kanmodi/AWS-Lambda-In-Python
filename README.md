@@ -15,7 +15,7 @@ Select Python 2.7 as the RunTime
 ```
 
 ```
-Copy code from sampleLambda.py into the Cloud 9 Editor
+Copy code from sampleLambda.py into the dashboard editor
 ```
 
 ```
